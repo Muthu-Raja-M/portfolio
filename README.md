@@ -1,7 +1,7 @@
 # 🚀 Muthu Raja – Developer Portfolio
 
 🌐 **Live Website:**
-👉 https://profile-sand-sigma-55.vercel.app/
+👉 https://profile-muthu-raja-ms-projects.vercel.app/
 
 🔄 Latest (Auto-updated): https://profile-git-main-muthu-raja-ms-projects.vercel.app/
 
