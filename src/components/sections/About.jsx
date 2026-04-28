@@ -67,10 +67,11 @@ export default function About() {
           </h3>
           <div className="space-y-5">
             {[
-              'HTML, CSS, JavaScript',
-              'React & Tailwind CSS',
-              'MySQL ',
-              'Python',
+              {[
+  { label: 'Frontend Development', value: 88 },
+  { label: 'UI/UX Design', value: 85 },
+  { label: 'Backend Development', value: 72 },
+  { label: 'Problem Solving', value: 80 },(
             ].map((skill) => (
               <div key={skill.label}>
                 <div className="flex justify-between mb-2">
