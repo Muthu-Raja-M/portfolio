@@ -8,12 +8,12 @@ import {
 
 export const personalInfo = {
   name: 'Muthu Raja',
-  role: 'Computer Science Student | Web Developer | UI/UX Designer',
+  role: 'Computer Science Graduate | Frontend Developer | Building Full-Stack Applications',
   location: 'Tirunelveli, Tamil Nadu',
   tagline: 'Building clean, user-friendly, and efficient digital solutions.',
   email: 'muthuraja240405@gmail.com',
   phone: '+91 95853 31980',
-  typingTexts: ['Web Developer', 'UI/UX Designer', 'Problem Solver'],
+  typingTexts: ['Frontend Developer', 'Full-Stack Developer', 'UI/UX Designer'],
 };
 
 export const navLinks = [
