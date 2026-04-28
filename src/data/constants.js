@@ -13,7 +13,7 @@ export const personalInfo = {
   tagline: 'Building clean, user-friendly, and efficient digital solutions.',
   email: 'muthuraja240405@gmail.com',
   phone: '+91 95853 31980',
-  typingTexts: ['Frontend Developer', 'Full-Stack Developer', 'UI/UX Designer'],
+  typingTexts: ['Frontend Developer', 'Problem Solver', 'Full-Stack Developer', 'UI/UX Designer'],
 };
 
 export const navLinks = [
