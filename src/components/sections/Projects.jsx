@@ -272,8 +272,7 @@ export default function Projects() {
       <motion.div
         variants={staggerContainer}
         initial="hidden"
-        whileInView="visible"
-        viewport={{ once: true }}
+        animate="visible"
         className="grid md:grid-cols-2 lg:grid-cols-3 gap-6"
         layout
       >
