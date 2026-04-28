@@ -26,7 +26,7 @@ export const navLinks = [
   { id: 'contact', label: 'Contact' },
 ];
 
-export const aboutText = `I'm a Computer Science Engineering graduate (2022–2026) passionate about crafting clean, intuitive digital experiences. With hands-on internship experience in web development and UI/UX design, I bridge the gap between beautiful design and functional code. I love solving real-world problems through technology and continuously strive to improve my craft.`;
+export const aboutText = `I'm a Computer Science Engineering graduate (2022–2026) passionate about crafting clean, intuitive digital experiences. With hands-on internship experience in full-stack development and UI/UX design, I bridge the gap between beautiful design and functional code. I love solving real-world problems through technology and continuously strive to improve my craft.`;
 
 export const skills = {
   uiux: [
@@ -121,7 +121,7 @@ export const experiences = [
   {
     id: 1,
     company: 'Web Walk Infosys',
-    role: 'Web Development Intern',
+    role: 'Full-Stack Development Intern',
     period: '2024',
     points: [
       'Developed responsive web modules using HTML, CSS, and JavaScript',

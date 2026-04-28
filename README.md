@@ -11,7 +11,7 @@
 
 Hi, I'm **Muthu Raja** 👋
 Computer Science Engineering Student (2022–2026)
-Web Developer | UI/UX Designer | Problem Solver
+Full-Stack Developer | UI/UX Designer | Problem Solver
 
 I build clean, responsive, and user-friendly web applications with a strong focus on design consistency and performance.
 
