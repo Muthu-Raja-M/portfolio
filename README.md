@@ -128,7 +128,7 @@ It automatically redeploys whenever changes are pushed to the `main` branch.
 
 ## 📬 Contact
 
-📧 Email: [muthurajam@zohomail.in](mailto:muthurajam@zohomail.in)
+📧 Email: [muthuraja240405@gmail.com](mailto:muthuraja240405@gmail.com)
 📍 Location: Tirunelveli, Tamil Nadu
 
 ---
